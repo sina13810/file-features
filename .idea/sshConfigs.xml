@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="65.108.1.206" id="a0b06d6e-72bc-417d-a249-42122911c06e" port="3031" customName="file_reduc" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="file_reduc" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

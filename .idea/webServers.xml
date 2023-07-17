@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="afeb4b9f-99e6-429d-b21f-d0d6f2197e74" name="file_features">
+        <fileTransfer rootFolder="/var/www/file_reduction" accessType="SFTP" host="65.108.1.206" port="3031" sshConfigId="a0b06d6e-72bc-417d-a249-42122911c06e" sshConfig="file_reduc">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
