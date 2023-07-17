@@ -7,7 +7,7 @@ import { exec } from "child_process";
 
 var __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const api_token = "5728537487:AAHqOPtSF6f_1xlrjgIxDcfxIrA2YGvLxrs";
+const api_token = "";
 
 // MongoDB :
 // Connection URL
