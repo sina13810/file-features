@@ -8,7 +8,7 @@ import { ConnectionCheckOutStartedEvent } from "mongodb";
 
 var __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const api_token = "6100004486:AAEeomKEiJCQwkrX5yd_HPQbLJXwtK2Wa2Q";
+const api_token = "";
 
 const bot = new Telegraf(api_token);
 
